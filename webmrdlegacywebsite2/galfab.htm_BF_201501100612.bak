@@ -1,0 +1,428 @@
+<html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>Galer&iacute;a del Proceso de Fabricaci&oacute;n de M&oacute;dulos de Maderer&iacute;a R&iacute;o Dorado S.A de C.V.</title>
+
+<link rel="stylesheet" href="emx_nav_left.css" type="text/css">
+
+<link rel="shortcut icon" href="http://www.riodorado.com.mx/fav.ico" type="image/x-icon">
+
+<script>
+
+	defaultStatus = "Maderería Río Dorado"
+
+</script>
+
+<script> 
+
+top.window.moveTo(0,0);
+
+ top.window.resizeTo(window.screen.availWidth, window.screen.availHeight);
+
+</script>
+
+<script>
+
+function fav() {
+
+window.external.AddFavorite(location.href="http://www.riodorado.com.mx",document.title="Maderería Río Dorado S.A. de C.V.");
+
+}
+
+</script>
+
+<script>
+
+function openpopup(){
+
+window.open("mails.htm","Hola","width=300,height=450")
+
+}
+
+</script>
+
+<style type="text/css">
+
+<!--
+
+.style2 {font-size: 10px; }
+
+.style3 {font-size: 10%}
+
+.style5 {font-family: Arial, Helvetica, sans-serif; font-size: 13px;}
+
+-->
+
+</style>
+
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'es',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</head>
+
+<body bgcolor="#FFFFFF" oncontextmenu="return false">  
+
+<div id="masthead"> 
+
+  <div id="globalNav"> 
+
+    <img alt="" src="gblnav_left.gif" height="32" width="4" id="gnl"> <img alt="" src="glbnav_right.gif" height="32" width="4" id="gnr"> 
+
+    <div id="globalLink" class="style5">      <a href="info.htm" id="gl7" class="glink" onMouseOver="window.status='Historia de la Empresa';return true">Sobre la Empresa</a><a href="corporate.htm" id="gl6" class="glink" onMouseOver="window.status='Área Corporativa';return true">&Aacute;rea Corporativa</a><a href="maderas.htm" id="gl6" class="glink" onMouseOver="window.status='Departamento de Ventas: Maderas y Accesorios';return true">Departamento de Ventas</a><a href="index.htm" class="glink" onMouseOver="window.status='Departamento de Proyectos y Construcciones: Casas Modulares y Oficinas.  Vea nuestros Modelos!!';return true">Departamento de Proyectos y Construcciones</a> 
+
+    </div> 
+
+    <form id="search" action=""> 
+
+    </form> 
+
+  </div>  
+
+</div> 
+
+<table width="82%" border="0">
+
+  <tr>
+
+    <td width="195" rowspan="2"><a href="index.htm" onMouseOver="window.status='Ir a la página de Maderería Río Dorado';return true"><img src="images/logonegro.gif" width="195" height="90" border="0"></a></td>
+
+    <td width="339" rowspan="2">&nbsp;</td>
+
+    <td width="357" height="21">
+
+      <div align="right"><font face="Times New Roman, Times, serif" size="3" color="#0066FF"><i><span id=clock></span>
+
+              <script language="JavaScript">
+
+
+
+<!-- This script and many more are available free online at -->
+
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Original:  Chris (javascript@crashedstar.com) -->
+
+<!-- Web Site:  http://www.crashedstar.com/ -->
+
+
+
+<!-- Begin
+
+var dayarray=new Array("Domingo","Lunes","Martes","Mi&eacute;rcoles","Jueves","Viernes","S&aacute;bado")
+
+var montharray=new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre")
+
+function getthedate(){
+
+var mydate=new Date()
+
+var year=mydate.getYear()
+
+if (year < 1000)
+
+year+=1900
+
+var day=mydate.getDay()
+
+var month=mydate.getMonth()
+
+var daym=mydate.getDate()
+
+if (daym<10)
+
+daym="0"+daym
+
+var hours=mydate.getHours()
+
+var minutes=mydate.getMinutes()
+
+var seconds=mydate.getSeconds()
+
+var dn="AM"
+
+if (hours>=12)
+
+dn="PM"
+
+if (hours>12){
+
+hours=hours-12
+
+}
+
+{
+
+ d = new Date();
+
+ Time24H = new Date();
+
+ Time24H.setTime(d.getTime() + (d.getTimezoneOffset()*60000) + 3600000);
+
+ InternetTime = Math.round((Time24H.getHours()*60+Time24H.getMinutes()) / 1.44);
+
+ if (InternetTime < 10) InternetTime = '00'+InternetTime;
+
+ else if (InternetTime < 100) InternetTime = '0'+InternetTime;
+
+}
+
+if (hours==0)
+
+hours=12
+
+if (minutes<=9)
+
+minutes="0"+minutes
+
+if (seconds<=9)
+
+seconds="0"+seconds
+
+//change font size here
+
+var cdate=dayarray[day]+", "+montharray[month]+" "+daym+" "+year+" | "+hours+":"+minutes+":"+seconds+" "+dn+""
+
+if (document.all)
+
+document.all.clock.innerHTML=cdate
+
+else if (document.getElementById)
+
+document.getElementById("clock").innerHTML=cdate
+
+else
+
+document.write(cdate)
+
+}
+
+if (!document.all&&!document.getElementById)
+
+getthedate()
+
+function goforit(){
+
+if (document.all||document.getElementById)
+
+setInterval("getthedate()",1000)
+
+}
+
+window.onload=goforit
+
+//  End -->
+
+      </script>
+
+    </i></font></div></td>
+
+  </tr>
+
+  <tr>
+
+    <td valign="top"><div align="right"><font color="#FFFFFF" size="1"><i><a href="javascript:fav();" onMouseOver="window.status='Agréganos a Favoritos!';return true"><font color="#FF6600" size="2" face="Times New Roman, Times, serif"><b><u>Agr&eacute;guenos a Favoritos!</u></b></font></a></i></font></div></td>
+
+  </tr>
+
+</table>
+
+<br>
+
+<br>
+
+<hr align="left" width="96%">
+
+<table width="95%" border="0" align="left">
+
+  <tr>
+
+    <td width="137" align="left" valign="top">
+
+      <div id="pageNav">
+
+        <div id="sectionLinks"> <a href="info.htm#proyectos" onMouseOver="window.status='Proyectos Actuales de Maderería Río Dorado';return true">Proyectos</a> <a href="info.htm#oficinas" onMouseOver="window.status='Oficinas y Sucursales de Maderería Río Dorado';return true">Oficinas</a> <a href="productos.htm" onMouseOver="window.status='Vea la lista completa de todos los productos que podemos ofrecerle.';return true">Productos</a><a href="sobreelcentro.htm" onMouseOver="window.status='Información sobre el Centro Productivo.';return true">Centro Productivo</a> <a href="sobreelcentro.htm#preguntas" onMouseOver="window.status='Preguntas frecuentes sobre la Madera y su Impregnación';return true">Sobre la Madera</a> <a href="info.htm#impreg" onMouseOver="window.status='Cómo se lleva a cabo el proceso de Impregnación';return true">Impregnaci&oacute;n</a></div>
+
+        <div class="relatedLinks">
+
+          <h3>Productos</h3>
+
+          <a href="accesorios.htm" onMouseOver="window.status='Accesorios, Puertas y Ventanas';return true">Accesorios</a> <a href="index.htm" onMouseOver="window.status='Casas Modulares y Oficinas.  Vea nuestros Modelos!! O proponga un modelo alternativo y se lo cotizaremos sin costo alguno.';return true">Casas</a> <a href="accesorios.htm" onMouseOver="window.status='Accesorios, Puertas y Ventanas';return true">Puertas</a> <a href="accesorios.htm" onMouseOver="window.status='Accesorios, Puertas y Ventanas';return true">Ventanas</a> <a href="productos.htm" onMouseOver="window.status='Vea la lista completa de todos los productos que podemos ofrecerle.';return true">Otros</a> </div>
+
+        <div id="advert"> <a href="http://www.nokia.com" target="_blank"><img src="logo_nokia.gif" alt="Nokia, Connecting People" width="116" height="32" border="0" /></a> </div>
+
+    </div></td>
+
+    <td width="841" valign="top">
+
+      <div id="pageNav"><div id="google_translate_element"></div></div>
+
+      <div id="content">
+
+        <div class="feature">
+
+          <p align="center"><font color="#000000">          <em><br>
+
+            Haga click en las im&aacute;genes para verlas m&aacute;s grandes (Se abre una ventana nueva)</em><br>
+
+            <br>
+
+            <br>
+
+          </font></p>
+
+          <table width="200" border="0" align="center">
+
+            <tr>
+
+              <td><div align="center"><a href="fabmodulos/corte.JPG" target="_blank"><img src="fabmodulos/TN_corte.JPG" width="117" height="88" border="0"></a></div></td>
+
+              <td><div align="center"><a href="fabmodulos/ensamblado.JPG" target="_blank"><img src="fabmodulos/TN_ensamblado.JPG" width="117" height="88" border="0"></a></div></td>
+
+              <td><div align="center"><a href="fabmodulos/ensamblado2.JPG" target="_blank"><img src="fabmodulos/TN_ensamblado2.JPG" width="117" height="88" border="0"></a></div></td>
+
+              <td><div align="center"><a href="fabmodulos/ensamblado3.JPG" target="_blank"><img src="fabmodulos/TN_ensamblado3.JPG" width="117" height="88" border="0"></a></div></td>
+
+              <td><div align="center"><a href="fabmodulos/ensamblado4.JPG" target="_blank"><img src="fabmodulos/TN_ensamblado4.JPG" width="117" height="88" border="0"></a></div></td>
+
+            </tr>
+
+            <tr>
+
+              <td><div align="center" class="style2"><a href="fabmodulos/corte.JPG" target="_blank"><br>
+
+              Habilitado de Madera</a><br>
+
+              <br>
+
+              </div></td>
+
+              <td><div align="center" class="style2"><a href="fabmodulos/ensamblado.JPG" target="_blank">Puertas</a></div></td>
+
+              <td><div align="center" class="style2"><a href="fabmodulos/ensamblado2.JPG" target="_blank">Ensamblado de M&oacute;dulos </a> </div></td>
+
+              <td><div align="center" class="style2"><a href="fabmodulos/ensamblado3.JPG" target="_blank">Ensamblado de M&oacute;dulos</a></div></td>
+
+              <td><div align="center" class="style2"><a href="fabmodulos/ensamblado4.JPG" target="_blank">Prueba Final de Armado </a> </div></td>
+
+            </tr>
+
+            <tr>
+
+              <td><div align="center"><a href="fabmodulos/lambrin.JPG" target="_blank"><img src="fabmodulos/TN_lambrin.JPG" width="117" height="88" border="0"></a></div></td>
+
+              <td><div align="center"></div></td>
+
+              <td><div align="center"></div></td>
+
+              <td><div align="center"></div></td>
+
+              <td><div align="center"></div></td>
+
+            </tr>
+
+            <tr>
+
+              <td><div align="center" class="style2"><a href="fabmodulos/lambrin.JPG" target="_blank"><br>
+
+              Lambr&iacute;n</a><br>
+
+              <br>
+
+              </div></td>
+
+              <td><div align="center"><span class="style3"><span class="style2"><span class="style2"></span></span></span></div></td>
+
+              <td><div align="center"><span class="style3"><span class="style2"><span class="style2"></span></span></span></div></td>
+
+              <td><div align="center"><span class="style3"><span class="style2"><span class="style2"></span></span></span></div></td>
+
+              <td><div align="center"><span class="style3"><span class="style2"><span class="style2"></span></span></span></div></td>
+
+            </tr>
+
+          </table>
+
+          <p align="left">&nbsp;</p>
+
+          <table width="200" border="0" align="center">
+
+            <tr>
+
+              <td><a href="index.htm" onMouseOver="window.status='Casas Modulares y Oficinas.  Vea nuestros Modelos!! O proponga un modelo alternativo y se lo cotizaremos sin costo alguno.';return true"><img src="images/construcciones.gif" width="197" height="31" border="0"></a></td>
+
+            </tr>
+
+          </table>
+
+          <p align="left">&nbsp;</p>
+
+          <p align="left"><font color="#000000">                    </font></p>
+
+          <hr align="center">
+
+          <div align="center"><font color="#0066FF">Casas</font><font color="#FFFFFF"> <font color="#0066FF">| <a href="accesorios.htm" onMouseOver="window.status='Accesorios, Puertas y Ventanas';return true">Accesorios</a> | <a href="corporate.htm" onMouseOver="window.status='Área Corporativa';return true">&Aacute;rea Corporativa</a> | <a href="info.htm" onMouseOver="window.status='La Empresa';return true">La Empresa</a> | <a href="http://riodorado.tripod.com.mx/mrd/contacto.htm" onMouseOver="window.status='Vea nuestros correos electrónicos disponibles!';return true" target="_self">Ventas</a></font></font><font color="#0066FF"></font><font color="#0066FF"><br>
+
+    <font size="1">Webmaster: </font></font><font size="1"><a href="mailto:memozebadua@gmail.com?Subject=Error en WebMRD&Body=Buenos dias" onMouseOver="window.status='Envía un correo a memozebadua@gmail.com';return true">Guillermo Zebad&uacute;a</a><font color="#0066FF"><br>
+
+    </font><font size="1"><font size="1"><font color="#0066FF">
+
+    <script language="JavaScript">
+
+<!--//Date Stamp
+
+		var dayArray = new Array("Domingo","Lunes","Martes","Mi&eacute;rcoles","Jueves","Viernes","S&aacute;bado");
+
+		var monthArray = new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
+
+		var lastUpdate = new Date(document.lastModified);
+
+		var thisDay=dayArray[lastUpdate.getDay()];
+
+		var thisDate=lastUpdate.getDate() < 10 ? '0'+lastUpdate.getDate() : lastUpdate.getDate();
+
+		var thisMonth=monthArray[lastUpdate.getMonth()];
+
+		var thisMonthNum=lastUpdate.getMonth()+1 < 10 ? '0'+ (lastUpdate.getMonth()+1) : lastUpdate.getMonth()+1;
+
+		var thisFullYear=String(lastUpdate.getFullYear());
+
+		var thisYear= thisFullYear.charAt(2) + thisFullYear.charAt(3);
+
+
+
+		document.write("Actualizado el ");
+
+		document.write(thisDate + '/' + thisMonthNum + '/' + thisFullYear);
+
+//-->
+
+  </script>
+
+  </font></font></font></font></div>
+
+        </div>
+
+        <div class="story"></div>
+
+    </div></td>
+
+  </tr>
+
+</table>
+
+<p>&nbsp;</p>
+
+<div class="story"></div> 
+
+<div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;"> <a href="http://www.georgiaprime.com/"><b>legend blue 11s</b></a> <a href="http://www.xtreamhost.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.springlaketownship.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.whitebirchfarmnj.com/"><b>legend blue 11s</b></a> <a href="http://windowinspirations.ca/"><b>jordan 11 legend blue</b></a> <a href="http://www.slr.aero/"><b>legend blue 11s</b></a> <a href="http://wattsline.org/"><b>legend blue 11s</b></a> <a href="http://www.esperanto-inc.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.colven.co/"><b>jordan 11 legend blue</b></a> <a href="http://www.geminimg.com/"><b>jordan 13 black red</b></a> <a href="http://www.azforeclosureprevention.org/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.bluewaterwinedist.com/"><b>legend blue 11s</b></a> <a href="http://www.gnomongold.am/"><b>black infrared 13s</b></a> <a href="http://www.windwardoptimalhealth.com/"><b>legend blue 11s</b></a> <a href="http://www.caremanagementfordepression.org/"><b>jordan 11 legend blue</b></a> <a href="http://www.hydeparkfarmersmarket.org/"><b>legend blue 11s</b></a> <a href="http://www.docart.com/"><b>legend blue 11s</b></a> <a href="http://www.tentencanada.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.wingedcommandos.org/"><b>legend blue 11s</b></a> <a href="http://www.discountidbadgesupplies.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.honoluluprosecutor.com/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.poecompetition.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.electmattpina.com/"><b>black infrared 13s</b></a> <a href="http://www.neuhauslabs.com/"><b>jordan 11 legend blue</b></a> <a href="http://windowinspirations.ca/"><b>legend blue 11s</b></a> <a href="http://www.inlandvalleykids.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.twinoakspress.com/"><b>black infrared 23 13s</b></a> <a href="http://www.inlandvalleykids.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.tech-yeah.com/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.aventur.us/"><b>legend blue 11s</b></a> <a href="http://www.neuhauslabs.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.thehealthesenior.biz/"><b>jordan 11 legend blue</b></a> <a href="http://www.lawforimmigrants.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.llynleisure.com/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.geminimg.com/"><b>black red 13s</b></a> <a href="http://www.venture-sandiego.com/"><b>jordan 11 legend blue</b></a> <a href="http://www.kalbindustries.com/"><b>jordan 13 black infrared</b></a> <a href="http://www.lumber.ca/"><b>jordan 11 legend blue</b></a> <a href="http://www.calvinmartin.com/"><b>legend blue 11s</b></a> <a href="http://www.amfoodsgroup.com/"><b>jordan 13 black infrared 23</b></a> <a href="http://www.statsboston.com/"><b>michael kors black friday</b></a> <a href="http://www.thiscaringhome.org"><b>michael kors Black Friday</b></a> <a href="http://www.healthcaretraininginstituteofamerica.com"><b>michael kors Black Friday</b></a> <a href="http://www.brookvillechamber.com/"><b>beats by dre cyber monday</b></a> <a href="http://www.qisalon.com/"><b>michael kors black friday</b></a> <a href="http://mojmalipravnik.net"><b>coach black friday</b></a> <a href="http://refugeesuccess.org/"><b>beats by dre cyber monday</b></a> <a href="http://www.janeadenymemorialschool.com/"><b>michael kors black friday</b></a> <a href="http://www.wisr680.com"><b>Juicy Couture black friday</b></a> <a href="http://intrass.com"><b>kate spade cyber monday</b></a> <a href="http://www.mapilots.org/"><b>coach black friday</b></a> <a href="http://www.macsports.com"><b>coach cyber monday</b></a> <a href="http://aspen-ridge-farm.com//"><b>uggs black friday</b></a> <a href="http://cyberlightcomics.com/"><b>north face black friday</b></a> <a href="http://nrhchonors.org/"><b>uggs cyber monday</b></a> <a href="http://mateineagoe.com/"><b>north face black friday</b></a> <a href="http://www.citadelinc.com/"><b>beats by dre cyber monday</b></a> <a href="http://www.phflyers.com/"><b>uggs cyber monday</b></a> <a href="http://www.macsports.com/"><b>coach black friday</b></a> <a href="http://www.northbarrington.org/"><b>coach cyber monday</b></a> <a href="http://www.region3nccgscf.org"><b>kate spade cyber monday</b></a> <a href="http://www.phflyers.com/"><b>uggs cyber monday</b></a> <a href="http://intrass.com"><b>kate spade cyber monday</b></a> <a href="http://www.raac.org//"><b>north face black friday</b></a> <a href="http://maymontana.com/"><b>north face cyber monday</b></a> <a href="http://www.citadelinc.com/"><b>beats by dre black friday</b></a> <a href="http://www.tunesource.com/"><b>uggs black friday</b></a> <a href="http://www.andrewvarela.com/"><b>canada goose black friday</b></a> <a href="http://www.charltonlawyers.com/"><b>canada goose black friday</b></a> <a href="http://www.marniejudefoundation.org/"><b>beats by dre black friday</b></a> <a href="http://www.sweetheartmtn.com"><b>hollister black friday</b></a> <a href="http://vickersinc.com//"><b>beats by dre black friday</b></a> <a href="http://www.frenergy.net/"><b>beats by dre cyber monday</b></a> <a href="http://www.sewwenergy.com"><b>lululemon cyber monday</b></a> <a href="http://squireshoppe.com"><b>canada goose cyber monday</b></a> <a href="http://www.sportsmansflagstaff.com/"><b>north face black friday</b></a> <a href="http://www.pastortonysmith.com/"><b>uggs cyber monday</b></a> <a href="https://www.theloancoach.com/"><b>coach cyber monday</b></a> <a href="http://loscoloresven.com/"><b>uggs black friday</b></a> <a href="http://www.stadson.com/"><b>uggs black friday</b></a> <a href="http://www.charltonlawyers.com/"><b>canada goose black friday</b></a> <a href="http://rssilverandlight.com"><b>kate spade black friday</b></a> <a href="http://www.applewindowcleaning.com"><b>kate spade cyber monday</b></a> <a href="http://www.parmsolutions.com"><b>hollister cyber monday</b></a> <a href="http://www.nystrombusinesssales.com/"><b>beats by dre cyber monday</b></a> <a href="http://www.snphotos.com/"><b>coach black friday</b></a></div></body>
+
+</html>
